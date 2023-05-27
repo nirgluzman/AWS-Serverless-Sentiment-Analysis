@@ -5,5 +5,5 @@ POST {{url}}
 Content-Type: application/json
 
 {
-   "text": "bla bla" 
+   "text": "The weather is sunny and I plan to play basketball with my kids" 
 }
